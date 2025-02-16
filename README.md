@@ -1,14 +1,12 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Umesh Naik</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Data Analyst Intern</h3>
 <img align="right" alt="web developer" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 <p align="left"> <a href="https://twitter.com/__umeshnaik__" target="blank"><img src="https://img.shields.io/twitter/follow/__umeshnaik__?logo=twitter&style=for-the-badge" alt="__umeshnaik__" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
-
 - 👨‍💻 All of my projects are available at [https://umeshsnaik.github.io/Ignite-intern-PORTFOLIO/](https://umeshsnaik.github.io/Ignite-intern-PORTFOLIO/)
 
-- 📫 How to reach me **umeshnaik9682gmail.com**
+- 📫 To reach me out **umeshnaik9682gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
