@@ -1,5 +1,4 @@
-
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
+![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
 <h1 align="center">Hi 👋, I'm Umesh Naik</h1>
 <h3 align="center">A passionate Data Analyst Intern</h3>
 <img align="right" alt="web developer" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
