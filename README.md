@@ -1,5 +1,5 @@
 
-[![MasterHead]https://www.pinterest.com/pin/data-analytics-animation--311381761730704419/]
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
 <h1 align="center">Hi 👋, I'm Umesh Naik</h1>
 <h3 align="center">A passionate Data Analyst Intern</h3>
 <img align="right" alt="web developer" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
